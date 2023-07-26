@@ -15,3 +15,9 @@ THEN I can save my initials and score
 ## Notes
 
 ## Screenshots
+<img src="./assets/img/sshot1.jpg" alt="first picture">
+<img src="./assets/img/sshot2.jpg" alt="second picture">
+
+## Links
+Repo : https://github.com/DewYourWorst/quiz-assignment
+Live : https://dewyourworst.github.io/quiz-assignment/
